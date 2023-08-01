@@ -1,0 +1,18 @@
+.Click{
+    width: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid;
+    cursor: pointer;
+    background-color: rgb(111, 111, 252);
+    color: aliceblue;
+}
+.re{
+    width: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid;
+    cursor: pointer;
+    background-color: rgb(252, 111, 111);
+    color: aliceblue;
+}
